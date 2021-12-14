@@ -1,0 +1,2 @@
+Los arrays son contenedores que almacenan una coleccion de datos que se
+construyen con una variable y se establecen con corchetes.
