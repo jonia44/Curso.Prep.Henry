@@ -1,0 +1,1 @@
+Las strings son bloques de texto que van a estar entre comillas.

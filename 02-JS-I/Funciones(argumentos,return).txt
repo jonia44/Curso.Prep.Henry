@@ -1,0 +1,5 @@
+Las funciones son objetos invocables que pueden llevar argumentos o no 
+en los parentesis y la declaracion return hace escapar los datos de la
+funcion no dejando acceder desde fuera de la funcion, finaliza la ejecu
+cion de la funcion y da un valor que se devuelve a quien llama a la fun
+cion y si se omite se devuelve undefined.

@@ -1,0 +1,1 @@
+Las variables sirven para almacenar un valor que puede ser usado luego.

@@ -1,0 +1,2 @@
+Las declaraciones if las usamos en una funcion para verificar si algo es
+verdadero y si no lo es siga avanzando.

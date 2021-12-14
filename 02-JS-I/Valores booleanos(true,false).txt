@@ -1,0 +1,1 @@
+Los valores booleanos activan o desactivan usando true o false.
