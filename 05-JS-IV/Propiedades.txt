@@ -1,0 +1,5 @@
+Los objetos pueden llevar funciones o variables para establecer el valor
+que son definidas como propiedades cuando estan dentro de objeto generalmen
+te.
+
+

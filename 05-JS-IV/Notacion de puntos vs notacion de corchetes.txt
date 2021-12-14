@@ -1,0 +1,5 @@
+La notacion de puntos y la notacion de corchetes se usan para acceder a 
+las propiedades del objeto. La primera llama al nombre del objeto, un 
+punto, y el nombre de la clave, y la segunda es como llamar a un elemen
+to de un array, se llama a la clave envolviendola entre comillas, gene
+ralmente los corchetes casi siempre se usan con variables.

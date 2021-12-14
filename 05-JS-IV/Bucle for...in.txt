@@ -1,0 +1,3 @@
+El bucle for...in comienza igual que for pero declaramos una variable en
+los parentesis, la palabra clave in, y el nombre del objeto. Como los ob
+jetos no tienen indice numerico el bucle estandar no funcionara.

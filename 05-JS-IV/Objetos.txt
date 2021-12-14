@@ -1,0 +1,3 @@
+Los objetos son similares a los arrays pero tienen la diferencia de con
+tener informacion sobre una sola cosa y envede usar indices se basan en
+clave:valor.
