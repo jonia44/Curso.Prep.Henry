@@ -1,0 +1,3 @@
+&&(Y-AND) es un operador logico que evalua que las expresiones sean ver
+daderas para devolver verdadero y si una o las 2 expresiones son falsas
+devuelve falso.

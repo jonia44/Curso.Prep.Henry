@@ -1,0 +1,3 @@
+El bucle for usa 3 cosas entre los parentesis, una variable, una expre
+sion condicional, y va aumentando el valor de la variable. El bucle ter
+mina cuando el valor sea true.

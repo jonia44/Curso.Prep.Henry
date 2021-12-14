@@ -1,0 +1,2 @@
+||(Ó-OR) es un operador logico que va devolver verdadero si una o las 2
+expresiones son verdaderas y falso si las 2 son falsas.
